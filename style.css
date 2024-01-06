@@ -1,0 +1,68 @@
+.main {
+    display: flex;
+    justify-content: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.logo{
+    color: red;
+    margin-left: px;
+}
+
+.button{
+    margin-left: 10px;
+}
+
+.number{
+    margin-left: 950px;
+}
+
+.number2{
+    margin-left: 5px;
+    color: red;
+}
+
+.navbar{
+    margin-top: 10px;
+    background-color: red;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.item{
+    color: white;
+    margin-left: 750px;
+}
+
+.maint{
+    margin-left: 10px;
+    color: white;
+
+}
+.supp{
+    margin-left: 10px;
+    color: white;
+}
+
+.about{
+    margin-left: 10px;
+    color: white;
+}
+
+.contact{
+    margin-left: 10px;
+    color: white;
+}
+.topnav{
+    margin-left: 10px;
+}
